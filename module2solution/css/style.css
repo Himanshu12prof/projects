@@ -1,0 +1,51 @@
+
+*{
+box-sizing:border-box; 
+	}
+
+@media(min-width: 992px)
+{
+	section{
+
+	}
+
+}
+@media(min-width: 992px)
+{
+	
+}
+@media(min-width: 992px)
+{
+	
+}
+#f1{
+
+}
+#f2{
+
+}
+#f3{
+
+}
+body{
+	font-family: Courier New;
+
+}
+
+h1{
+	color:;
+	text-align:center;
+ 
+}
+#box{
+background-color:#E5E7E9;
+border: 3px solid black;
+margin: 20px;
+margin-bottom: 10px;
+padding: 10px;
+}
+#text{
+
+}
+
+
