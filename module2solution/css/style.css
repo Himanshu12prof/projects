@@ -2,10 +2,7 @@
 *{
  box-sizing:border-box; 
 	}
-div{
-	height: 250px;
-	overflow: hidden;
-}
+
 @media(min-width: 992px)
 {
 	.p1{
@@ -70,11 +67,13 @@ clear: both;
 }
 
 div{
+	height: 250px;
+	overflow: hidden;
 background-color:#E5E7E9;
 border: 2px solid black;
 margin: 10px;
 margin-bottom: 10px;
-padding: 25px 5px 5px 5px;float: left;
+padding: 30px 5px 5px 5px;float: left;
 position: relative;
 }
 
