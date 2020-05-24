@@ -1,0 +1,29 @@
+
+*{
+ box-sizing:border-box; 
+	}
+body {
+  font-size: 14px;
+  color: #fff;
+  background-color:violet;
+  
+}
+h1{
+	text-align:center;
+}
+#navb{
+background-color:gray;s
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {s
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
